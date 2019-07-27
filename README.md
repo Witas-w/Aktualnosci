@@ -10,7 +10,7 @@
          color: white; 
     background: #396f38;
     margin: 0;
-    
+   
    
         }
        .menu-1{
@@ -71,6 +71,7 @@
           top:123px;
           right: 47px;
          width:248px;
+         font-size: 30px
       }
       #akt{
           border-bottom:1px solid white;
@@ -94,7 +95,7 @@
             <a class="klok" href="#">Blog</a>
             <a class="loki" href="#">Galeria zdjęć</a>
         </nav>
-        <img class="img" src="https://pl.wikipedia.org/wiki/Ustka#/media/Plik:Ustka_z_lotu_ptaka_IMG_6828.jpg">
+        <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Ustka_z_lotu_ptaka_IMG_6828.jpg">
         </div>
         <div id="lokiter">
          <h3 id="akt">Aktualności</h3>
