@@ -83,6 +83,7 @@
           left: 20px;
           width: 25%;
           height: 30%;
+          position: fixed;
       }
         </style>
     </head>
