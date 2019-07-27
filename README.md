@@ -95,7 +95,7 @@
          <div id="lokko">
         <nav>
             <a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualnosci</a>
-            <a class="klok" href="#">Blog</a>
+            <a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
             <a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Galeria zdjęć</a>
         </nav>
         <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Ustka_z_lotu_ptaka_IMG_6828.jpg">
