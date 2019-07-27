@@ -19,7 +19,7 @@
            width: 100%;
            height: 70px;
            position: absolute;
-           font-family: fantasy;
+           font-family: Arial;
            float: left;
           left: 0px;
        }
