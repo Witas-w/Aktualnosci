@@ -21,7 +21,7 @@
            position: absolute;
            font-family: fantasy;
            float: left;
-          
+          left: 0px;
        }
        #aut{
         
