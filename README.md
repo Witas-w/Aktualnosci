@@ -10,7 +10,7 @@
          color: white; 
     background: #396f38;
     margin: 0;
-   
+   overflow: hidden;
    
         }
        .menu-1{
@@ -55,15 +55,15 @@
       }
       .lok{
          position: absolute; 
-         left: 20px;
+         left: 10px;
       }
       .klok{
            position: absolute;
-           left: 120px;
+           left: 110px;
       }
       .loki{
            position: relative;
-           left: 173px;
+           left: 160px;
       }
       #lokiter{
           background-color: #4e9447;
