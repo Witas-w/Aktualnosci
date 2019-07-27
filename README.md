@@ -71,7 +71,7 @@
           top:123px;
           right: 47px;
          width:248px;
-         font-size: 30px
+         font-size: 60px;
       }
       #akt{
           border-bottom:1px solid white;
