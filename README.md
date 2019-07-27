@@ -55,15 +55,15 @@
       }
       .lok{
          position: absolute; 
-         left: 10px;
+         left: 00px;
       }
       .klok{
            position: absolute;
-           left: 110px;
+           left: 95px;
       }
       .loki{
            position: relative;
-           left: 160px;
+           left: 150px;
       }
       #lokiter{
           background-color: #4e9447;
@@ -101,7 +101,7 @@
         </div>
         
         
-        <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Ustka_z_lotu_ptaka_IMG_6828.jpg">
+        
         
         <div id="lokiter">
          <h3 id="akt">Aktualności</h3>
