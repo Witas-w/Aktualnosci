@@ -79,7 +79,7 @@
       }
       .img{
           float: left;
-          top: 165px;
+          top: 100px;
           left: 60px;
           width: 40%;
           height: 50%;
