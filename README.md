@@ -1,4 +1,4 @@
-# aktualnosci
+# aktualności
 <!DOCTYPE html>
 <html>
     <head>
