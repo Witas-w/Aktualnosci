@@ -71,7 +71,7 @@
           top:300px;
           right: 47px;
          width:40%;
-         font-size: 30px;
+         font-size: 20px;
       }
       #akt{
           border-bottom:1px solid white;
@@ -81,8 +81,8 @@
           float: left;
           top: 400px;
           left: 60px;
-          width: 25%;
-          height: 30%;
+          width: 40%;
+          height: 50%;
           position: fixed;
       }
         </style>
