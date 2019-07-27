@@ -70,7 +70,7 @@
           position: absolute;
           top:123px;
           right: 47px;
-         width:50%;
+         width:25%;
          font-size: 10px;
       }
       #akt{
@@ -79,7 +79,7 @@
       }
       .img{
           float: left;
-          top: 200px;
+          top: 500px;
           left: 20px;
           width: 25%;
           height: 30%;
