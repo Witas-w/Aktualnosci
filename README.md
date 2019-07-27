@@ -71,7 +71,7 @@
           top:123px;
           right: 47px;
          width:248px;
-         font-size: 60px;
+         font-size: 30px;
       }
       #akt{
           border-bottom:1px solid white;
@@ -81,6 +81,8 @@
           float: left;
           top: 100px;
           left: 20px;
+          width: 25%;
+          height: 30%;
       }
         </style>
     </head>
