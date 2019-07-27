@@ -70,8 +70,8 @@
           position: absolute;
           top:123px;
           right: 47px;
-         width:248px;
-         font-size: 30px;
+         width:50%;
+         font-size: 10px;
       }
       #akt{
           border-bottom:1px solid white;
@@ -79,7 +79,7 @@
       }
       .img{
           float: left;
-          top: 100px;
+          top: 200px;
           left: 20px;
           width: 25%;
           height: 30%;
