@@ -63,7 +63,7 @@
       }
       .loki{
            position: relative;
-           left: 150px;
+           left: 140px;
       }
       #lokiter{
           background-color: #4e9447;
