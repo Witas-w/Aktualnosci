@@ -72,7 +72,7 @@
           right: 10px;
          width:85%;
          font-size: 20px;
-         
+         z-index: 2;
       }
       #akt{
           border-bottom:1px solid white;
@@ -86,6 +86,12 @@
           height: 50%;
           position: fixed;
       }
+      .Background{
+       z-index: 1;
+       bottom: 0px;
+       top: 40px;
+       width: 100%;
+       }
         </style>
     </head>
     <body>
@@ -101,7 +107,8 @@
         </nav>
         </div>
         
-        
+        <img class="Background" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
+
         
         
         <div id="lokiter">
