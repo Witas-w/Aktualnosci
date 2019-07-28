@@ -80,9 +80,10 @@
       }
      
       .img {
+      position: absoulte;
        z-index: 1;
        bottom: 0px;
-       top: 0px;
+       top: 30px;
        width: 100%;
        right: 0px;
        left: 0px;
@@ -102,7 +103,7 @@
         </nav>
         </div>
         
-        <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
+        <img id="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
 
         
         
