@@ -89,8 +89,10 @@
       .Background{
        z-index: 1;
        bottom: 0px;
-       top: 25px;
+       top: 0px;
        width: 100%;
+       right: 0px;
+       left: 0px;
        }
         </style>
     </head>
