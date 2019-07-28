@@ -78,15 +78,8 @@
           border-bottom:1px solid white;
           
       }
-      .img{
-          float: left;
-          top: 100px;
-          left: 0px;
-          width: 40%;
-          height: 50%;
-          position: fixed;
-      }
-      .Background{
+     
+      .img {
        z-index: 1;
        bottom: 0px;
        top: 0px;
@@ -109,7 +102,7 @@
         </nav>
         </div>
         
-        <img class="Background" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
+        <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
 
         
         
