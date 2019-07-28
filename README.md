@@ -80,7 +80,7 @@
       }
      
       .img {
-      position: absoulte;
+       position: fixed;
        z-index: 1;
        bottom: 0px;
        top: 30px;
