@@ -70,7 +70,7 @@
           position: absolute;
           top:300px;
           right: 10px;
-         width:80%;
+         width:85%;
          font-size: 20px;
       }
       #akt{
