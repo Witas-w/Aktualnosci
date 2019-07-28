@@ -67,7 +67,7 @@
       }
       #lokiter{
           background-color: #4e9447;
-          position: absolute;
+          position: relative;
           top:300px;
           right: 10px;
          width:85%;
