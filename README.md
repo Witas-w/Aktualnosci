@@ -105,7 +105,7 @@
         </nav>
         </div>
         
-        <img id="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
+        <img id="img" src="https://s.iha.com/00113735406/Traben-trarbach-Remains-of-castle-grevenburg.jpeg">
 
         
         
