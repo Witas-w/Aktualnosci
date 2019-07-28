@@ -89,7 +89,7 @@
       .Background{
        z-index: 1;
        bottom: 0px;
-       top: 40px;
+       top: 25px;
        width: 100%;
        }
         </style>
