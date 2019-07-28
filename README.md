@@ -88,6 +88,7 @@
        width: 100%;
        right: 0px;
        left: 0px;
+       margin: 0;
        }
         </style>
     </head>
