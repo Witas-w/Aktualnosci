@@ -82,8 +82,8 @@
       #img {
        position: fixed;
        z-index: 1;
-       bottom: 0px;
-       top: 30px;
+       margin-bottom: 0px;
+       top: 50px;
        width: 100%;
        right: 0px;
        left: 0px;
