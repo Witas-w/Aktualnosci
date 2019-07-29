@@ -111,7 +111,7 @@
         
         <div id="lokiter">
          <h3 id="akt">Aktualności</h3>
-         <p>Obecnie jestem na wakacjach w Ustce. Ustka to miejscowość w województwie Pomorskim w powiecie Słupskim w gminie Ustka. Położona jest ona nad ujściem rzeki Słupii do morza Bałtyckiego</p>
+         <p>Obecnie jestem na wakacjach w Ustce. Ustka to miejscowość w województwie Pomorskim w powiecie Słupskim w gminie Ustka. Położona jest ona nad ujściem rzeki Słupii do morza Bałtyckiego.</p>
         </div>
        
    
