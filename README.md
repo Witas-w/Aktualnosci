@@ -30,41 +30,9 @@
       #klik{
          color: grey; 
       }
-      #lokko{
-          position: absolute;
-          top: 40px;
-          left: 127px;
-          font-family: Arial;
-          
-      }
-      nav{
-          text-decoration: none;
-      }
-      a{
-        text-decoration: none;
-        color: black;
-       
-      }
-      a:hover{
-          background-color: red;
-          color: white;
-      }
-      a:active{
-          background-color: red;
-            color: white;
-      }
-      .lok{
-         position: absolute; 
-         left: 00px;
-      }
-      .klok{
-           position: absolute;
-           left: 95px;
-      }
-      .loki{
-           position: relative;
-           left: 140px;
-      }
+     
+    
+      
       #lokiter{
           background-color: #4e9447;
           position: absolute;
@@ -90,6 +58,45 @@
        left: 0px;
        margin: 0;
        }
+       ul {
+           position: absolute;
+           margin: 0px;
+           padding: 0px;
+           list-style-type: none;
+           right: 0px;
+           
+       }
+       ul li{
+           width: 200px;
+           height: 40px;
+           background-color: red;
+           opacity: .8;
+           line-height: 40px;
+           text-align: center;
+          font-size: 20px;
+              
+       }
+       ul li a{
+           text-decoration: none;
+           color: white;
+           display: block;
+         
+       }
+       ul li a:hover{
+           background-color: green;
+       }
+        ul li a:active{
+           background-color: green;
+       }
+       ul li ul li{
+           display: none;
+           
+       }
+      
+        ul li:hover ul li{
+           display: block;
+       }
+       
         </style>
     </head>
     <body>
@@ -97,15 +104,19 @@
     
         <p><span id="aut">Autor:</span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
          </div>
-         <div id="lokko">
-        <nav>
-            <a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
-            <a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
-            <a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a>
-        </nav>
-        </div>
         
-        <img id="img" src="https://s6.ifotos.pl/img/3E431C6E-_qseaxrr.jpg">
+       <ul>
+       <li><a href="#">Menu</a>
+      <ul>
+            <li><a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualności</a></li>
+            <li><a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a></li>
+            <li><a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a></li>
+        </ul>
+        </li>
+        </ul>
+   
+        
+        
 
         
         
