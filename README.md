@@ -87,12 +87,16 @@
            background-color: green;
        }
        
+       
        ul li ul li{
            display: none;
          
        }
       
         ul li:hover ul li{
+           display: block;
+       }
+        ul li:active ul li{
            display: block;
        }
        
