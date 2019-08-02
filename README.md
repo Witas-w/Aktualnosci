@@ -63,8 +63,8 @@
            margin: 0px;
            padding: 0px;
            list-style-type: none;
-           right: 0px;
-           top: 0px;
+           right: 30px;
+           top: 20px;
            z-index: 3;
        }
        ul li{
