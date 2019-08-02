@@ -86,9 +86,7 @@
        ul li a:hover{
            background-color: green;
        }
-        ul li a:active{
-           background-color: green;
-       }
+       
        ul li ul li{
            display: none;
          
