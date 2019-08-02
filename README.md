@@ -68,7 +68,7 @@
            z-index: 3;
        }
        ul li{
-           width: 200px;
+           width: 100px;
            height: 40px;
            background-color: red;
            opacity: .8;
