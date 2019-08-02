@@ -91,7 +91,8 @@
        }
        ul li ul li{
            display: none;
-           top: 40px;
+           top: 60px;
+           right: 30px;
        }
       
         ul li:hover ul li{
