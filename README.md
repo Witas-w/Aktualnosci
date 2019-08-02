@@ -64,7 +64,7 @@
            padding: 0px;
            list-style-type: none;
            right: 0px;
-           
+           top: 0px;
        }
        ul li{
            width: 200px;
@@ -115,7 +115,7 @@
         </li>
         </ul>
    
-        
+        <img id="img" src="https://s6.ifotos.pl/img/3E431C6E-_qseaxrr.jpg">
         
 
         
