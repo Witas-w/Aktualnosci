@@ -65,6 +65,7 @@
            list-style-type: none;
            right: 0px;
            top: 0px;
+           z-index: 3;
        }
        ul li{
            width: 200px;
