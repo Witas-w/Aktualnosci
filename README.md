@@ -63,8 +63,8 @@
            margin: 0px;
            padding: 0px;
            list-style-type: none;
-           right: 30px;
-           top: 20px;
+           right: 0px;
+           top: 0px;
            z-index: 3;
        }
        ul li{
@@ -91,8 +91,7 @@
        }
        ul li ul li{
            display: none;
-           top: 60px;
-           right: 30px;
+         
        }
       
         ul li:hover ul li{
