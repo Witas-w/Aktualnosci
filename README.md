@@ -63,7 +63,7 @@
            margin: 0px;
            padding: 0px;
            list-style-type: none;
-           right: 10px;
+           right: 0px;
            top: 30px;
            z-index: 3;
        }
