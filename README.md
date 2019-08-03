@@ -70,7 +70,7 @@
        ul li{
            width: 150px;
            height: 40px;
-           background-color: red;
+           background-color: blue;
            opacity: .8;
            line-height: 40px;
            text-align: center;
