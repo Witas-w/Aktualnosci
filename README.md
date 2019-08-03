@@ -59,7 +59,7 @@
        margin: 0;
        }
        ul {
-           position: absolute;
+           position: relative;
            margin: 0px;
            padding: 0px;
            list-style-type: none;
@@ -81,7 +81,7 @@
            text-decoration: none;
            color: white;
            display: block;
-           position: relative;
+           
        }
        ul li a:hover{
            background-color: green;
