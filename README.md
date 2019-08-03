@@ -63,8 +63,8 @@
            margin: 0px;
            padding: 0px;
            list-style-type: none;
-           right: 0px;
-           top: 0px;
+           right: 10px;
+           top: 10px;
            z-index: 3;
        }
        ul li{
@@ -75,15 +75,13 @@
            line-height: 40px;
            text-align: center;
           font-size: 20px;
-            right: 0px;
-           top: 0px;  
+              
        }
        ul li a{
            text-decoration: none;
            color: white;
            display: block;
-           right: 0px;
-           top: 0px;
+           
        }
        ul li a:hover{
            background-color: green;
