@@ -64,7 +64,7 @@
            padding: 0px;
            list-style-type: none;
            right: 10px;
-           top: 10px;
+           top: 30px;
            z-index: 3;
        }
        ul li{
