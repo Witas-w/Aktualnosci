@@ -75,7 +75,8 @@
            line-height: 40px;
            text-align: center;
           font-size: 20px;
-              
+            right: 0px;
+           top: 0px;  
        }
        ul li a{
            text-decoration: none;
