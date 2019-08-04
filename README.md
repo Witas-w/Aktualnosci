@@ -108,21 +108,22 @@
          .menu{
            display: none;
            text-align: center;
-           width: 500px;
+           width: 450px;
           position: relative;
           top: 45px;
           right: 0px;
+           margin-right: 0px;
 }
          .menu a{
            display: block;
-           width: 500px;
+           width: 450px;
            text-decoration: none; 
            border-bottom: 1px solid black;
            margin: 0;
            color: black;
            background-color: white;
            top: 45px;
-           right: 0px;
+           margin-right: 0px;
           
           }
           
