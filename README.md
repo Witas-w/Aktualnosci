@@ -59,8 +59,8 @@
        margin: 0;
        }
        .nav{
-           position: relative;
-         
+           position: absolute;
+           
            text-align: right;
            color: black;
            height: 65px;
