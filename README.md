@@ -80,14 +80,13 @@
            line-height: 70px;
        }
        label{
-           margin: 0 40px 0 0;
+           margin: 10px  40px 0 0;
            font-size: 26px;
            line-height: 70px;
            display: none;
            width: 26px;
            float: right;
-           top: 10px;
-           position: absolute;
+           
        }
        #toggle{
            display: none;
