@@ -87,7 +87,7 @@
            width: 26px;
            float: right;
            top: 10px;
-           right: 10px;
+           position: absolute;
        }
        #toggle{
            display: none;
