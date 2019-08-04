@@ -112,7 +112,7 @@
 }
          .menu a{
            width: 100%;
-           display: block;
+           
            border-bottom: 1px solid black;
            margin: 0;
            color: black;
