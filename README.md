@@ -111,8 +111,9 @@
           position: relative;
 }
          .menu a{
+           display: block;
            width: 100%;
-           
+           text-decoration: none; 
            border-bottom: 1px solid black;
            margin: 0;
            color: black;
