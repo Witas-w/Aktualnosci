@@ -96,7 +96,7 @@
        
        @media only screen and (max-width: 500px){
          label{
-           position: absolute;
+           position: relative;
            top: 10px;
            right: 10px;
            display: block;
@@ -113,9 +113,10 @@
            
            border-bottom: 1px solid #EAEAEB;
            margin: 0;
+          }
           
-          toggle:checked + .menu{
-           display: block;
+          toggle:checked + .menu {
+          display: block;
 }
        }
        
