@@ -103,16 +103,18 @@
            cursor: pointer;
 }  
          .menu{
+          background-color: white;
+          color: black;
            text-align: center;
            width: 100%;
+           display: none;
 }
          .menu a{
            
            border-bottom: 1px solid #EAEAEB;
            margin: 0;
-           background-color: white;
-}
-          toggle:checked + .menu a{
+          
+          toggle:checked + .menu{
            display: block;
 }
        }
