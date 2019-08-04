@@ -70,7 +70,7 @@
        ul li{
            width: 150px;
            height: 40px;
-           background-color: red;
+           background-color: white;
            opacity: .8;
            line-height: 40px;
            text-align: center;
@@ -90,8 +90,9 @@
        
        ul li ul li{
            display: none;
-           top: 20px;
+           top: 10px;
            position: relative;
+           width: 100%;
        }
       
        ul li:hover ul li{
