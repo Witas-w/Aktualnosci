@@ -109,7 +109,8 @@
            text-align: center;
            width: 450px;
           position: relative;
-          top: 70px;
+          top: 45px;
+          right: 0px;
 }
          .menu a{
            display: block;
@@ -119,8 +120,9 @@
            margin: 0;
            color: black;
            background-color: white;
-           top: 70px;
-         
+           top: 45px;
+           right: 0px;
+          
           }
           
           #toggle:checked + .menu {
