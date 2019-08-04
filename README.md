@@ -108,15 +108,16 @@
            margin: 0;
            background-color: white;
 }
-          toggle:hover + .menu{
+          toggle:checked + .menu{
            display: block;
 }
        }
+       
        #icon-menu{
        right: 10px;
-       top: 10px;
-       width: 20px;
-       height: 20px;
+       top: 0;
+       width: 30px;
+       height: 30px;
        }
         </style>
     </head>
