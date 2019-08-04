@@ -59,7 +59,7 @@
        margin: 0;
        }
        .nav{
-           position: absolute;
+           position: relative;
          
            text-align: right;
            color: black;
@@ -84,6 +84,7 @@
            font-size: 26px;
            line-height: 70px;
            display: none;
+           width: 26px;
            float: right;
        }
        #toggle{
@@ -113,12 +114,7 @@
 }
        }
        
-       #icon-menu{
-       right: 0;
-       top: 0;
-       width: 50px;
-       height: 50px;
-       }
+     
         </style>
     </head>
     <body>
@@ -133,7 +129,7 @@
          
         
         <div class="nav"> 
-         <label for="toggle"><img id="icon-menu" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/VisualEditor_-_Icon_-_Menu.svg/1024px-VisualEditor_-_Icon_-_Menu.svg.png"></label>
+         <label for="toggle">&#9776;</label>
          <input type="checkbox" id="toggle">
          <div class="menu">
       <a href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
