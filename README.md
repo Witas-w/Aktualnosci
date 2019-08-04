@@ -107,19 +107,19 @@
          .menu{
            display: none;
            text-align: center;
-           width: 400px;
+           width: 450px;
           position: relative;
-          
+          top: 70px;
 }
          .menu a{
            display: block;
-           width: 400px;
+           width: 450px;
            text-decoration: none; 
            border-bottom: 1px solid black;
            margin: 0;
            color: black;
            background-color: white;
-           
+           top: 70px;
          
           }
           
