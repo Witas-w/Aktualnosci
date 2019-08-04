@@ -60,7 +60,7 @@
        }
        .nav{
            position: absolute;
-           border-bottom: 1px solid #EAEAEB;
+         
            text-align: right;
            color: black;
            height: 65px;
@@ -106,6 +106,7 @@
            display: block;
            border-bottom: 1px solid #EAEAEB;
            margin: 0;
+           background-color: white;
 }
           toggle:hover + .menu{
            display: block;
