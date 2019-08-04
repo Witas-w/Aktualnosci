@@ -60,7 +60,7 @@
        }
        .nav{
            
-      
+           position: absolute;
            text-align: right;
            color: black;
            height: 30px;
