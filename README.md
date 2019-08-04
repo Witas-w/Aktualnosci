@@ -65,7 +65,7 @@
            color: black;
            height: 30px;
            line-height: 30px;
-          
+           right: 10px;
            top: 20px;
            z-index: 3;
        }
@@ -117,7 +117,7 @@
            margin: 0;
            color: black;
            background-color: white;
-           left: 0px;
+           
            position: absolute;
           }
           
