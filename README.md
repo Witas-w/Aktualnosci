@@ -96,18 +96,15 @@
        
        @media only screen and (max-width: 500px){
          label{
-           position: relative;
-           top: 10px;
-           right: 10px;
+    
            display: block;
            cursor: pointer;
 }  
          .menu{
-          background-color: white;
-          color: black;
+        
            text-align: center;
            width: 100%;
-           display: none;
+          
 }
          .menu a{
            
