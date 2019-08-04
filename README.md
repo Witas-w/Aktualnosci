@@ -77,7 +77,7 @@
            text-decoration: none;
            color: black;
            
-           line-height: 70px;
+           line-height: 40px;
        }
        label{
            
@@ -85,13 +85,13 @@
            line-height: 40px;
            display: none;
            width: 26px;
-           float: right;
+           
            
        }
        #toggle{
            display: none;
-           top: 0px;
-           right: 0px;
+           top: 10px;
+           right: 10px;
        }
        
        
