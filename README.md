@@ -125,7 +125,7 @@
          
         
         <div class="nav"> 
-         <label for="toggle">&#9776</label>
+         <label for="toggle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/VisualEditor_-_Icon_-_Menu.svg/1024px-VisualEditor_-_Icon_-_Menu.svg.png"></label>
          <input type="checkbox" id="toggle">
          <div class="menu">
       <a href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
