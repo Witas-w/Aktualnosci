@@ -96,6 +96,8 @@
        
        @media only screen and (max-width: 500px){
          label{
+           top: 10px;
+           right: 10px;
            display: block;
            cursor: pointer;
 }  
@@ -104,7 +106,7 @@
            width: 100%;
 }
          .menu a{
-           display: none;
+           
            border-bottom: 1px solid #EAEAEB;
            margin: 0;
            background-color: white;
