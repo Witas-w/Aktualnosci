@@ -86,6 +86,8 @@
            display: none;
            width: 26px;
            float: right;
+           top: 10px;
+           right: 10px;
        }
        #toggle{
            display: none;
