@@ -70,16 +70,16 @@
        ul li{
            width: 150px;
            height: 40px;
-           background-color: red;
+           background-color: white;
            opacity: .8;
            line-height: 40px;
-           text-align: center;
+           text-align: left;
           font-size: 20px;
               
        }
        ul li a{
            text-decoration: none;
-           color: white;
+           color: black;
            display: block;
            
        }
@@ -92,7 +92,8 @@
            display: none;
            top: 10px;
            position: relative;
-           
+           left: 0px;
+           width: 100%; 
        }
       
        ul li:hover ul li{
