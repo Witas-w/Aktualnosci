@@ -107,12 +107,13 @@
          .menu{
            display: none;
            text-align: center;
-           width: 100%;
+           width: 400px;
           position: relative;
+          
 }
          .menu a{
            display: block;
-           width: 100%;
+           width: 400px;
            text-decoration: none; 
            border-bottom: 1px solid black;
            margin: 0;
