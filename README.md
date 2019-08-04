@@ -73,7 +73,7 @@
            background-color: white;
            opacity: .8;
            line-height: 40px;
-           text-align: center;
+           
           font-size: 20px;
               
        }
