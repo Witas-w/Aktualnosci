@@ -78,6 +78,7 @@
            color: black;
            position: relative;
            line-height: 40px;
+           margin-right: 30px; 
        }
        label{
            position: absolute;
@@ -107,14 +108,14 @@
          .menu{
            display: none;
            text-align: center;
-           width: 400px;
+           width: 500px;
           position: relative;
           top: 45px;
           right: 0px;
 }
          .menu a{
            display: block;
-           width: 400px;
+           width: 500px;
            text-decoration: none; 
            border-bottom: 1px solid black;
            margin: 0;
