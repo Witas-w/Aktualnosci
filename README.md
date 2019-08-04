@@ -104,11 +104,12 @@
            display: none;
            text-align: center;
            width: 100%;
-          
+           color: black;
+           background-color: white;
 }
          .menu a{
            display: block;
-           border-bottom: 1px solid #EAEAEB;
+           border-bottom: 1px solid black;
            margin: 0;
           }
           
