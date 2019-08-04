@@ -80,7 +80,8 @@
            line-height: 70px;
        }
        label{
-           margin: 10px  40px 0 0;
+           margin-right:40px;
+           margin-top:10px;
            font-size: 26px;
            line-height: 70px;
            display: none;
