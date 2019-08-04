@@ -110,7 +110,7 @@
            text-align: center;
            width: 400px;
           position: relative;
-          top: 25px;
+          top: 30px;
           right: 0px;
            margin-right: 0px;
 }
@@ -122,7 +122,7 @@
            margin: 0;
            color: black;
            background-color: white;
-           top: 25px;
+           top: 30px;
            right: 0px;
             text-align: center;
           }
