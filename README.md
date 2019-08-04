@@ -60,7 +60,7 @@
        }
        .nav{
            
-           
+           position: absolute;
            text-align: right;
            color: black;
            height: 30px;
@@ -70,7 +70,7 @@
            z-index: 3;
        }
        .menu{
-           margin: 0 30px 0 0;
+           margin: 0 10px;
        }
        .menu a{
            clear: right;
@@ -80,7 +80,7 @@
            line-height: 40px;
        }
        label{
-           
+           position: absolute;
            font-size: 26px;
            line-height: 40px;
            display: none;
