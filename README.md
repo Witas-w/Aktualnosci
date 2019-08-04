@@ -90,8 +90,8 @@
        }
        #toggle{
            display: none;
-           top: 10px;
-           right: 10px;
+           top: 0px;
+           right: 0px;
        }
        
        
@@ -118,6 +118,8 @@
            margin: 0;
            color: black;
            background-color: white;
+           left: 0px;
+           
           }
           
           #toggle:checked + .menu {
