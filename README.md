@@ -108,7 +108,7 @@
            display: none;
            text-align: center;
            width: 100%;
-          position: absolute;
+          position: relative;
 }
          .menu a{
            width: 100%;
