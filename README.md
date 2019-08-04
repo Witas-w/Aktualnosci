@@ -79,7 +79,7 @@
        }
        ul li a{
            text-decoration: none;
-           color: white;
+           color: black;
            display: block;
            
        }
