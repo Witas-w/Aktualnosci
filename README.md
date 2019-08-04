@@ -81,7 +81,7 @@
            text-decoration: none;
            color: black;
            display: block;
-           
+           width: 100%;
        }
        ul li a:hover{
            background-color: green;
