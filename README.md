@@ -96,6 +96,7 @@
        
        @media only screen and (max-width: 500px){
          label{
+           position: absolute;
            top: 10px;
            right: 10px;
            display: block;
@@ -111,7 +112,7 @@
            margin: 0;
            background-color: white;
 }
-          toggle:checked + .menu{
+          toggle:checked + .menu a{
            display: block;
 }
        }
