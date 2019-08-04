@@ -107,7 +107,7 @@
            border-bottom: 1px solid #EAEAEB;
            margin: 0;
 }
-          toggle:checked + .menu{
+          toggle:hover + .menu{
            display: block;
 }
        }
