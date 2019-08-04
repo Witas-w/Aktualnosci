@@ -66,6 +66,7 @@
            height: 65px;
            line-height: 70px;
            right: 0;
+           top: 20px;
            z-index: 3;
        }
        .menu{
