@@ -59,7 +59,7 @@
        margin: 0;
        }
        .nav{
-           position: absolute;
+           
            
            text-align: right;
            color: black;
@@ -70,13 +70,13 @@
            z-index: 3;
        }
        .menu{
-           margin: 0 10px;
+           margin: 0 30px 0 0;
        }
        .menu a{
-           clear: both;
+           clear: left;
            text-decoration: none;
            color: black;
-           margin: 0 10px;
+           
            line-height: 70px;
        }
        label{
