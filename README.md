@@ -108,7 +108,7 @@
          .menu{
            display: none;
            text-align: center;
-           width: 450px;
+           width: 400px;
           position: relative;
           top: 45px;
           right: 0px;
@@ -116,7 +116,7 @@
 }
          .menu a{
            display: block;
-           width: 450px;
+           width: 400px;
            text-decoration: none; 
            border-bottom: 1px solid black;
            margin: 0;
@@ -124,7 +124,7 @@
            background-color: white;
            top: 45px;
            margin-right: 0px;
-          
+            text-align: center;
           }
           
           #toggle:checked + .menu {
