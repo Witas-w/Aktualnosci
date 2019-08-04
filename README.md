@@ -70,7 +70,7 @@
            z-index: 3;
        }
        .menu{
-           margin: 0 10px;
+           
        }
        .menu a{
            clear: right;
