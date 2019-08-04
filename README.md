@@ -82,7 +82,7 @@
        label{
            
            font-size: 26px;
-           line-height: 70px;
+           line-height: 40px;
            display: none;
            width: 26px;
            float: right;
