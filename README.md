@@ -85,7 +85,7 @@
            line-height: 40px;
            display: none;
            width: 26px;
-           
+           right: 10px;
            
        }
        #toggle{
@@ -108,7 +108,7 @@
            display: none;
            text-align: center;
            width: 100%;
-          
+          position: absolute;
 }
          .menu a{
            width: 100%;
@@ -118,7 +118,7 @@
            color: black;
            background-color: white;
            left: 0px;
-           
+           position: absolute;
           }
           
           #toggle:checked + .menu {
