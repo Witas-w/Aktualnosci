@@ -63,8 +63,8 @@
            
            text-align: right;
            color: black;
-           height: 65px;
-           line-height: 70px;
+           height: 30px;
+           line-height: 30px;
            right: 0;
            top: 20px;
            z-index: 3;
@@ -80,8 +80,7 @@
            line-height: 70px;
        }
        label{
-           margin-right:40px;
-           margin-top:10px;
+           
            font-size: 26px;
            line-height: 70px;
            display: none;
@@ -91,7 +90,8 @@
        }
        #toggle{
            display: none;
-           
+           top: 10px;
+           right: 10px;
        }
        
        
@@ -101,7 +101,7 @@
           position: absolute;
            top: 10px;
            right: 10px;
-           margin-bottom: 0;
+           margin-bottom: 0px;
            display: block;
            cursor: pointer;
 }  
