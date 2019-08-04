@@ -76,7 +76,7 @@
            clear: left;
            text-decoration: none;
            color: black;
-           margin: 0 10px;
+           
            line-height: 70px;
        }
        label{
