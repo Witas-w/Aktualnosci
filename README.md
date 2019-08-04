@@ -76,7 +76,7 @@
            clear: right;
            text-decoration: none;
            color: black;
-           position: absolute;
+           position: relative;
            line-height: 40px;
        }
        label{
