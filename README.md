@@ -71,6 +71,7 @@
            margin: 0 10px;
        }
        .menu a{
+           clear: right;
            text-decoration: none;
            color: black;
            margin: 0 10px;
