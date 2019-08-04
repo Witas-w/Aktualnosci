@@ -73,7 +73,7 @@
            margin: 0 30px 0 0;
        }
        .menu a{
-           clear: left;
+           clear: right;
            text-decoration: none;
            color: black;
            
@@ -100,7 +100,7 @@
          label{
           
            
-      
+          
            display: block;
            cursor: pointer;
 }  
@@ -108,7 +108,7 @@
            display: none;
            text-align: center;
            width: 100%;
-          left: 0px;
+          
 }
          .menu a{
            width: 100%;
