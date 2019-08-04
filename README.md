@@ -109,7 +109,7 @@
            display: none;
            text-align: center;
            width: 100%;
-        
+          left: 0px;
 }
          .menu a{
            width: 100%;
