@@ -118,7 +118,7 @@
            color: black;
            background-color: white;
            
-           position: absolute;
+         
           }
           
           #toggle:checked + .menu {
