@@ -123,7 +123,7 @@
            color: black;
            background-color: white;
            top: 25px;
-           margin-right: 0px;
+           right: 0px;
             text-align: center;
           }
           
@@ -133,9 +133,11 @@
        }
        a:hover{
           background-color: red;
+          color: white;
        }
        a:active{
           background-color: red;
+           color: white;
        }
      
         </style>
