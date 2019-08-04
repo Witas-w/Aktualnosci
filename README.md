@@ -92,7 +92,7 @@
            display: none;
            top: 10px;
            position: relative;
-           left: 0px;
+           left: 10px;
            width: 100%; 
        }
       
