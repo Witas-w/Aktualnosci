@@ -10,7 +10,7 @@
          color: white; 
     background: #396f38;
     margin: 0;
-   
+  
    
         }
        .menu-1{
@@ -58,52 +58,56 @@
        left: 0px;
        margin: 0;
        }
-       ul {
+       .nav{
            position: absolute;
-           margin: 0px;
-           padding: 0px;
-           list-style-type: none;
-           right: 0px;
-           top: 30px;
-           z-index: 3;
+           border-bottom: 1px solid #EAEAEB;
+           text-align: right;
+           color: black;
+           height: 65px;
+           line-height: 70px;
+           right: 0;
        }
-       ul li{
-           width: 150px;
-           height: 40px;
-           background-color: red;
-           opacity: .8;
-           line-height: 40px;
-           text-align: center;
-          font-size: 20px;
-              
+       .menu{
+           margin: 0 10px;
        }
-       ul li a{
+       .menu a{
            text-decoration: none;
-           color: white;
-           display: block;
-           
+           color: black;
+           margin: 0 10px;
+           line-height: 70px;
        }
-       ul li a:hover{
-           background-color: green;
-       }
-       
-       
-       ul li ul li{
+       label{
+           margin: 0 40px 0 0;
+           font-size: 26px;
+           line-height: 70px;
            display: none;
-           top: 10px;
-           position: relative;
+           float: right;
+       }
+       #toggle{
+           display: none;
            
-            
-       }
-      
-       ul li:hover ul li{
-           display: block;
-       }
-
-        ul li:active ul li{
-           display: block;
        }
        
+       
+       
+       @media only screen and (max-width: 500px){
+         label{
+           display: block;
+           cursor: pointer;
+}  
+         .menu{
+           text-align: center;
+           width: 100%;
+}
+         .menu a{
+           display: block;
+           border-bottom: 1px solid #EAEAEB;
+           margin: 0;
+}
+          toggle:checked + .menu{
+           display: block;
+}
+       }
         </style>
     </head>
     <body>
@@ -111,20 +115,23 @@
     
         <p><span id="aut">Autor:</span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
          </div>
+         
+         
+         
+         
+         
         
-       <ul>
-       <li><a href="#">Menu</a>
-      <ul>
-            <li><a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualności</a></li>
-            <li><a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a></li>
-            <li><a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a></li>
-        </ul>
-        </li>
-        </ul>
-   
-        <img id="img" src="https://s6.ifotos.pl/img/3E431C6E-_qseaxrr.jpg">
+        <div class="nav"> 
+         <label for="toggle">&#9776</label>
+         <input type="checkbox" id="toggle">
+         <div class="menu">
+      <a href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
+            <a href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
+            <a href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a>
+     </div>  
         
-
+     </div>    
+       
         
         
         <div id="lokiter">
