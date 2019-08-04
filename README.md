@@ -73,7 +73,7 @@
            margin: 0 10px;
        }
        .menu a{
-           clear: right;
+           clear: left;
            text-decoration: none;
            color: black;
            margin: 0 10px;
@@ -101,18 +101,18 @@
            cursor: pointer;
 }  
          .menu{
-        
+           display: none;
            text-align: center;
            width: 100%;
           
 }
          .menu a{
-           
+           display: block;
            border-bottom: 1px solid #EAEAEB;
            margin: 0;
           }
           
-          toggle:checked + .menu {
+          #toggle:checked + .menu {
           display: block;
 }
        }
