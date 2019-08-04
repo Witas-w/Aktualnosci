@@ -96,7 +96,10 @@
        
        @media only screen and (max-width: 500px){
          label{
-    
+          position: absolute;
+           top: 10px;
+           right: 10px;
+           margin-bottom: 0;
            display: block;
            cursor: pointer;
 }  
@@ -107,6 +110,7 @@
         
 }
          .menu a{
+           width: 100%;
            display: block;
            border-bottom: 1px solid black;
            margin: 0;
