@@ -65,7 +65,7 @@
            color: black;
            height: 30px;
            line-height: 30px;
-           right: 10px;
+          
            top: 20px;
            z-index: 3;
        }
