@@ -70,7 +70,7 @@
        ul li{
            width: 150px;
            height: 40px;
-           background-color: white;
+           background-color: red;
            opacity: .8;
            line-height: 40px;
            text-align: center;
@@ -79,7 +79,7 @@
        }
        ul li a{
            text-decoration: none;
-           color: black;
+           color: white;
            display: block;
            
        }
