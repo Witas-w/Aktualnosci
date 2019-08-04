@@ -133,7 +133,7 @@
         
      </div>    
        
-        
+       <img id="img" src="https://s6.ifotos.pl/img/3E431C6E-_qseaxrr.jpg"> 
         
         <div id="lokiter">
          <h3 id="akt">Aktualności</h3>
