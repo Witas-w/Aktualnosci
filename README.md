@@ -73,7 +73,7 @@
            background-color: white;
            opacity: .8;
            line-height: 40px;
-           text-align: left;
+           text-align: center;
           font-size: 20px;
               
        }
@@ -92,8 +92,8 @@
            display: none;
            top: 10px;
            position: relative;
-           margin-left: 10px;
-           width: 100%; 
+           
+            
        }
       
        ul li:hover ul li{
