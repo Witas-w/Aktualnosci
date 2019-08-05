@@ -108,7 +108,7 @@
          .menu{
            display: none;
            text-align: center;
-           width: 400px;
+           width: 500px;
           position: relative;
           top: 25px;
           right: 0px;
@@ -117,7 +117,7 @@
 }
          .menu a{
            display: block;
-           width: 400px;
+           width: 500px;
            text-decoration: none; 
            border-bottom: 1px solid black;
            margin: 0;
