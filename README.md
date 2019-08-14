@@ -22,6 +22,7 @@
            font-family: Arial;
            float: left;
           left: 0px;
+           z-index: 3;
        }
        #aut{
          
@@ -48,11 +49,11 @@
       }
      
       #img {
-       position: absolute;
+       position: fixed;
        z-index: 1;
       height: 100%;
       bottom: 0px;
-       top: 70px;
+       top: 0px;
        width: 100%;
        right: 0px;
        left: 0px;
@@ -67,7 +68,7 @@
            line-height: 30px;
            right: 0px;
            top: 10px;
-           z-index: 3;
+           z-index: 4;
        }
        .menu{
          margin-right: 30px;  
@@ -166,7 +167,7 @@
         
      </div>    
        
-       <img id="img" src="https://s6.ifotos.pl/img/3E431C6E-_qseaxrr.jpg"> 
+       <img id="img" src="https://s6.ifotos.pl/img/91AC30FA-_qsweweq.png"> 
         
         <div id="lokiter">
          <h3 id="akt">Aktualności</h3>
