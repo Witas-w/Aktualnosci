@@ -24,7 +24,7 @@
           left: 0px;
        }
        #aut{
-         font-family: Times New Roman;
+         
          color: green;  
        }
       #klik{
@@ -147,7 +147,7 @@
     <body>
     <div class="menu-1">
     
-        <p><span id="aut">Autor:</span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
+        <p><span id="aut"><strong>Autor:</strong></span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
          </div>
          
          
