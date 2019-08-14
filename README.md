@@ -167,7 +167,7 @@
         
      </div>    
        
-       <img id="img" src="https://s6.ifotos.pl/img/91AC30FA-_qsweweq.png"> 
+       <img id="img" src="https://www.kasandbox.org/programming-images/landscapes/sand-dunes.png"> 
         
         <div id="lokiter">
          <h3 id="akt">Aktualności</h3>
