@@ -24,7 +24,7 @@
           left: 0px;
        }
        #aut{
-        
+         font-family: "Walt Disney";
          color: green;  
        }
       #klik{
