@@ -24,7 +24,7 @@
           left: 0px;
        }
        #aut{
-         font-family: Nexa Rust;
+         font-family: Times New Roman;
          color: green;  
        }
       #klik{
