@@ -24,7 +24,7 @@
           left: 0px;
        }
        #aut{
-         font-family: "Walt Disney";
+         font-family: Nexa Rust;
          color: green;  
        }
       #klik{
