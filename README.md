@@ -1,4 +1,4 @@
-# Witas
+# aktualności
 <!DOCTYPE html>
 <html>
     <head>
