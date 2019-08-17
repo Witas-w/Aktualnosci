@@ -29,7 +29,7 @@
      </div>  
             </div>    
        
-<img id="img" url("tlo.jpg")> 
+<img id="img" src="tlo.jpg"> 
         
 <div id="lokiter">
         <h3 id="akt">Aktualności</h3>
