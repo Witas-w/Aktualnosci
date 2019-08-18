@@ -33,7 +33,7 @@
         
 <div id="lokiter">
         <h3 id="akt">Aktualności</h3>
-         <p>Obecnie jestem we Wrocławiu. Miasto te położone jest nad paroma odnogami Odry. Można w nim obejrzeć ok. 170 mostów ikładek oraz 464 krasnale.</p>
+         <p>Obecnie jestem we Wrocławiu. Miasto te położone jest nad paroma odnogami Odry. Można w nim obejrzeć ok. 170 mostów i kładek oraz 464 krasnale.</p>
         </div>
        
    
