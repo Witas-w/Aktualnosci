@@ -2,7 +2,7 @@
          color: white;
     background: #396f38;
     margin: 0;
-
+    font-family: Arial;
 
         }
        .menu-1{
@@ -80,7 +80,7 @@
            color: black;
            position: relative;
            line-height: 40px;
-           margin-right: 30px;
+           padding: 20px 20px
        }
        label{
            position: absolute;
@@ -99,7 +99,7 @@
 
 
 
-       @media only screen and (max-width: 500px){
+       @media only screen and (max-width: 700px){
          label{
 
 
@@ -129,6 +129,8 @@
            right: 0px;
            left: 0px;
             text-align: center;
+             padding: 0;
+
           }
 
           #toggle:checked + .menu {
@@ -136,10 +138,10 @@
 }
        }
        a:hover{
-          background-color: red;
+          background-color: orangered;
           color: white;
        }
        a:active{
-          background-color: red;
+          background-color: orangered;
            color: white;
        }
