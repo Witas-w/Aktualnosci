@@ -9,7 +9,7 @@
     <body>
     <div class="menu-1">
     
-   <p><span id="aut"><strong>Autor:</strong></span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
+<img class="logo" src="logo.png">
          </div>
          
          
@@ -33,7 +33,7 @@
         
 <div id="lokiter">
         <h3 id="akt">Aktualności</h3>
-         <p>Obecnie jestem we Wrocławiu. Miasto te położone jest nad paroma odnogami Odry. Można w nim obejrzeć ok. 170 mostów i kładek oraz 464 krasnale.</p>
+         <p>Obecnie jestem we Wrocławiu. Miasto położone jest nad kilkoma odnogami Odry. Można w nim obejrzeć ok. 170 mostów i kładek oraz 464 krasnale.</p>
         </div>
        
    
